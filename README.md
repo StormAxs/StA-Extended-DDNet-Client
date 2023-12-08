@@ -13,22 +13,28 @@ FUTURES
 - ✅Auto login on specific DDNet and KoG Servers
 - ✅Better animation using LERP
 - ✅Custom colors for console(with opacity settings)
-- ![png](https://i.imgur.com/QAPSvSr.png)
+
+  ![png](https://i.imgur.com/QAPSvSr.png)
+
 - ✅Custom colors in TAB
+
   ![png](https://i.imgur.com/A9wGGtb.png)
 - ✅PlayerAssets(Profiles from T-Client)
   ![png](https://i.imgur.com/agtBLGU.jpeg)
 - ✅BindWheel that allows you use command and bind just using command circle
+
   ![png](https://i.imgur.com/VZ0htwS.png)
   ![png](https://i.imgur.com/yUMwSMe.png)
   ![png](https://i.imgur.com/WP5ksYI.png)
+
 - ✅Better tee display, so you can see how many peoples are frozen while playing in team
 
   ![png](https://i.imgur.com/Ml3TyBZ.png)
   ![png](https://i.imgur.com/FoVW4Ho.png)
 
-- ✅ STA TAB in Controls 
+- ✅ STA TAB in Controls
  ![png](https://i.imgur.com/w0dnoJQ.png)
+
 
 Source Code
 ---------
@@ -38,8 +44,9 @@ Telegram - @StormArq
 
 Instalation
 -------
-You can download client by using ~~Download Link~~ or Following [Releases link](https://github.com/StormAxs/StA-Extended-DDNet-Client/releases)
+You can download client by using ~~Download Link~~ or Release
 _Download the exe from [Discord server](https://discord.gg/MratBSWsMP)_
+
 
 
 
