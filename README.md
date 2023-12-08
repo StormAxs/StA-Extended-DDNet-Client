@@ -10,7 +10,7 @@ StA client is extended version of DDNet client that have more in game futures, c
 FUTURES
 =======
 
-- ✅Auto login on specific DDNet and KoG Servers
+- ✅Auto login on specific DDNet and KoG Servers (GER10 for DDNet | GER3 for KoG)
 - ✅Better animation using LERP
 - ✅Custom colors for console(with opacity settings)
 
