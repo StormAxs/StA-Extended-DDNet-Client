@@ -34,7 +34,7 @@ FUTURES
 
 - ✅ STA TAB in Controls
 
- ![png](https://i.imgur.com/w0dnoJQ.png)
+  ![png](https://i.imgur.com/w0dnoJQ.png)
 
 
 Source Code
