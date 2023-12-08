@@ -34,7 +34,7 @@ FUTURES
 
 - ✅ STA TAB in Controls
 
-  ![png](https://i.imgur.com/w0dnoJQ.png)
+ ![png](https://i.imgur.com/w0dnoJQ.png)
 
 
 Source Code
@@ -45,7 +45,9 @@ Telegram - @StormArq
 
 Instalation
 -------
-You can download client by using ~~Download Link~~ or Release
+You can download client by using ~~Download Link~~ or [Release link](https://github.com/StormAxs/StA-Extended-DDNet-Client/releases)
+
+
 _Download the exe from [Discord server](https://discord.gg/MratBSWsMP)_
 
 
