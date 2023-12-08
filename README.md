@@ -33,6 +33,7 @@ FUTURES
   ![png](https://i.imgur.com/FoVW4Ho.png)
 
 - ✅ STA TAB in Controls
+
  ![png](https://i.imgur.com/w0dnoJQ.png)
 
 
