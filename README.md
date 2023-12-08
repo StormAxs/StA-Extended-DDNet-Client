@@ -30,6 +30,11 @@ FUTURES
 - ✅ STA TAB in Controls 
  ![png](https://i.imgur.com/w0dnoJQ.png)
 
+Source Code
+---------
+## If you wish to get the game source code WRITE TO ME BY FOLLOWING LINKS
+[Discord](https://discordapp.com/users/479926515908214795) or send me friend request - **stormaxd**
+Telegram - @StormArq
 
 Instalation
 -------
