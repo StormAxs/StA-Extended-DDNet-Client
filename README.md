@@ -33,7 +33,7 @@ FUTURES
 
 Instalation
 -------
-You can download client by using ~~Download Link~~ or Release
+You can download client by using ~~Download Link~~ or Following [Releases link](https://github.com/StormAxs/StA-Extended-DDNet-Client/releases)
 _Download the exe from [Discord server](https://discord.gg/MratBSWsMP)_
 
 
