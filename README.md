@@ -1,4 +1,3 @@
-[![DDraceNetwork](https://cdn.discordapp.com/attachments/1056897504211370004/1176966640504676486/gui_logo.png?ex=6570ca9a&is=655e559a&hm=0d179414b9c0859fe17bd1d34279119cb1145fc47f490c2f333c1b49b344cf76&)](https://ddnet.org) [![](https://github.com/ddnet/ddnet/workflows/Build/badge.svg)](https://github.com/ddnet/ddnet/actions?query=workflow%3ABuild+event%3Apush+branch%3Amaster) [![](https://codecov.io/gh/ddnet/ddnet/branch/master/graph/badge.svg)](https://codecov.io/gh/ddnet/ddnet/branch/master)
 
 ![StA](https://cdn.discordapp.com/attachments/1141459005395435692/1182843102864613446/gui_logo.png?ex=65862b7b&is=6573b67b&hm=dc7a2bd1b5b33cc503dbcbfff79c30fd5e36416eef959131be912637e712b0f2&)
 
